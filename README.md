@@ -12,6 +12,11 @@ thank
  
    ``` 
    cd /path/to/folder_you_want_to_store
-   git clone https://github.com/Thanakron1997/Convert-FASTQ-to-FASTA.git
-   cd Convert-FASTQ-to-FASTA
+   git clone https://github.com/Thanakron1997/Convert_FASTQ_to_FASTA.git
+   cd Convert_FASTQ_to_FASTA
    ```   
+  # <strong>Usage</strong>
+ 
+ ```
+ python fastq_to_fasta.py <fastq_filename.fastq> <result_file_name.fasta>
+ ```
